@@ -47,5 +47,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 - Federico Paschetta - [email](mailto:fedepasche6@gmail.com)
-- Project Link: [https://github.com/your-repo/hotel-cancellation-prediction](https://github.com/your-repo/hotel-cancellation-prediction)
+- Matteo Del Prato - [email](mailto:m.matteodelprato@gmail.com)
+- Project Link: [https://github.com/federicopaschetta/HotelBookingCancellationPrediction](https://github.com/federicopaschetta/HotelBookingCancellationPrediction)
 
