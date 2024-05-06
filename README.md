@@ -1,6 +1,3 @@
-Here's a README.md template for the project on forecasting hotel booking cancellations, based on the provided details from your report and other files:
-
-```markdown
 # Hotel Booking Cancellation Prediction
 
 ## Overview
@@ -29,18 +26,16 @@ The primary dataset used is `HOTEL_BOOKINGS.csv`, originally sourced from a Kagg
 ## Installation
 To set up the project environment:
 
-```bash
 git clone https://github.com/your-repo/hotel-cancellation-prediction.git
 cd hotel-cancellation-prediction
 pip install -r requirements.txt
-```
 
 ## Usage
 To run the analysis:
 
-```bash
+
 python script.py
-```
+
 
 This script will execute the data preprocessing, model training, and prediction phases. The results and plots will be saved in the specified directories within the project.
 
